@@ -8,10 +8,10 @@
 		<version>2.3.7.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.batch</groupId>
-	<artifactId>traitement-batch</artifactId>
+	<groupId>com.ensa</groupId>
+	<artifactId>SpringBatchTP</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>traitement-batch</name>
+	<name>SpringBatchTP</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
