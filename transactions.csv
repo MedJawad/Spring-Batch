@@ -1,0 +1,4 @@
+idTransaction,idCompte,montant,dateTransaction
+1,1,3000,02/01/2020 11:10
+2,2,4750,02/01/2020 12:15
+3,3,4178,05/01/2020 13:40
